@@ -4,3 +4,4 @@ print("fuck1.6!!!")
 print("fuck2!!!")
 
 print("fuck3!!!")
+print("fuck3.06!!!")
